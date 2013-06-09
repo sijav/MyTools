@@ -14,7 +14,7 @@ Get started for diff
 - put your new files to new folder,
 - run: <br>
 $ cd diff <br>
-$ ./diff <br>
+$ ./diff.sh <br>
 - the diff files will be in diff/old folder (sry for script mess)
 
 Get started for make
@@ -22,7 +22,7 @@ Get started for make
 - put your new files into new/diff/diff/ (again sry about this one couldn't make it right :D)
 - run: <br>
 $ cd diff <br>
-$ ./make <br>
+$ ./make.sh <br>
 - the diffrent files from new folder will be in make folder
 
 
